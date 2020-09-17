@@ -1,11 +1,30 @@
 # Jobs
+# Fast Retailing
+- company: Fast Retailing CO., LTD.
+  position: Senior Engineer
+  duration: Mar, 2019 &mdash; Present
+  summary: 
+    <ul class="resume-item-list">
+      <li>Backend engineer for core services of EC site in multiple countries</li>
+      <li>Planning, design and development for security related features</li>
+      <li>Rollout next generation services to different region markets</li>
+      <li>Database migration for major services update</li>
+      <li>Development pipeline enhancement and deployment modernization • Transformation to in-house development</li>
+      <li>Vendor management and resource planning</li>
+    </ul>
+
+
 # Umbo Computer Vision
 - company: Umbo Computer Vision
   position: Hacker
-  duration: Mar, 2017 &mdash; Present
+  duration: Mar, 2017 &mdash; Oct, 2018
   summary: 
     <ul class="resume-item-list">
-      <li>Backend and infrastructure operation</li>
+      <li>Backend API design and implementation using Node.js and Express.js</li>
+      <li>Database administration using MongoDB and MySQL</li>
+      <li>Cloud architecture design using AWS</li>
+      <li>Build service monitoring system and serve as DevOps</li>
+      <li>Engineering team-building as Scrum Mastern</li>
     </ul>
 
 # KKBOX Group
